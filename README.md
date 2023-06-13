@@ -1,6 +1,6 @@
 "# Free-energy-principle" 
 
-This program will provide a mathematic represenation of the human brain 
+This program will provide a mathematical represenation of the human brain 
 
 **Aims**  \
 One reason to model the human brain is to understand ourselves better. This has been seen as an important part of being a human since Ancient Greece, where "know thyself" was printed atop the Temple of Delphi. I hope that through building this model I will come to understand myself better and bring other contributors along on the ride. 
